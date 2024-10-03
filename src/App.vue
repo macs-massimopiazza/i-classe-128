@@ -54,10 +54,18 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
+        { src: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F34000000%2FBalto-Screenshots-3-balto-34027853-1250-677.jpg&f=1&nofb=1&ipt=7bbf6d49a122dfa6ff70007d590e3646cf60d3cff8faca2374a6b82ba609b2d6&ipo=images", testo: "Non era nè basso, nè alto... era Balto", nome: "Valeria" },
+        {
+          src: "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Hasbulla.jpg",
+          testo: "frase divertente da leggere",
+          nome: "Flavio",
+        },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "https://storage.laprovinciadicomo.it/media/photologue/2024/8/22/photos/cache/nico-paz-piace-a-tuttilo-vuole-il-milan-per-gennaio_3fc429b_6zgWFvb_original.webp", testo: "Non so cosa scrivere", nome: "Alessandro" },
+        { src: "", testo: "Buonasera", nome: "Michele" },
         { src: "", testo: "", nome: "" },
+        { src: "https://wips.plug.it/cips/libero.it/magazine/cms/2022/04/giorgio-mastrota-1.jpg", testo: "Cavalier custode dell'acciaio Inox ( Giorgio Mastroooo..) Guerriero nordico di pura lana Merinos", nome: "xX_-Giorgio_Matrota_Biggest_Fan89-_Xx" },
       ],
     };
   },
