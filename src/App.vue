@@ -1,13 +1,11 @@
 <template>
   <div id="app">
-    <div
-      style="
+    <div style="
         background: url('/garlic_dog.webp') no-repeat center;
         background-size: cover;
         min-height: 40vh;
         padding: 2rem 0;
-      "
-    >
+      ">
       <h1 style="color: #a8ffc9; font-size: 4rem">
         ✨🌟🫘 Vivaaaaa Classe 128 ✨🌟🫘
       </h1>
@@ -21,12 +19,7 @@
     </h3>
     <ul>
       <li v-for="(frase, index) in frasi" :key="index">
-        <img
-          style="max-height: 200px; width: initial"
-          v-if="frase.src"
-          :src="frase.src"
-          alt=""
-        />
+        <img style="max-height: 200px; width: initial" v-if="frase.src" :src="frase.src" alt="" />
         <span style="display: block">{{ frase.testo }}</span>
         <span style="font-style: italic"> -{{ frase.nome }}</span>
         <hr />
@@ -55,8 +48,8 @@ export default {
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
-        { src: "", testo: "", nome: "" },
-      ],
+        { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
+
     };
   },
   methods: {},
