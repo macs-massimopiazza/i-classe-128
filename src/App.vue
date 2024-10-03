@@ -55,7 +55,7 @@ export default {
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
-        { src: "", testo: "", nome: "" },
+        { src: "./public/images/128.jpg", testo: "Sotto il pontos c'è la classe 128", nome: "Enxhi" },
       ],
     };
   },
