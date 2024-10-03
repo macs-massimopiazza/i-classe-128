@@ -47,6 +47,7 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
+        { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
       ]
