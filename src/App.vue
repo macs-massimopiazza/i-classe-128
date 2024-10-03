@@ -54,6 +54,7 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
+        { src: "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages6.fanpop.com%2Fimage%2Fphotos%2F34000000%2FBalto-Screenshots-3-balto-34027853-1250-677.jpg&f=1&nofb=1&ipt=7bbf6d49a122dfa6ff70007d590e3646cf60d3cff8faca2374a6b82ba609b2d6&ipo=images", testo: "Non era nè basso, nè alto... era Balto", nome: "Valeria" },
         { src: "", testo: "", nome: "" },
       ],
     };
