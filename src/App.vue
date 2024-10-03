@@ -54,6 +54,7 @@ export default {
           nome: "Flavio",
         },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
+        { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXYn5iUcNSCXBwpDnJLLkO89Wr4A6t1nk1Q&s", testo: "Come rispondo se mi chiedono come sto", nome: "Samuele G." },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "https://project-static-assets.s3.amazonaws.com/APISpreadsheets/APIMemes/HomerSimpsonFrontBack.jpeg", testo: "Api's", nome: "Simone MN" },
         { src: "./public/images/128.jpg", testo: "Sotto il pontos c'è la classe 128", nome: "Enxhi" },
