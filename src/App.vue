@@ -54,6 +54,7 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
+        { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "", testo: "", nome: "" },
       ],
     };
