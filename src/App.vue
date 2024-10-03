@@ -56,7 +56,7 @@ export default {
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
-        { src: "", testo: "Non so cosa scrivere", nome: "Alessandro" },
+        { src: "https://storage.laprovinciadicomo.it/media/photologue/2024/8/22/photos/cache/nico-paz-piace-a-tuttilo-vuole-il-milan-per-gennaio_3fc429b_6zgWFvb_original.webp", testo: "Non so cosa scrivere", nome: "Alessandro" },
         { src: "", testo: "", nome: "" },
       ],
     };
