@@ -55,6 +55,7 @@ export default {
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "", nome: "" },
+        { src: "https://www.socialpilot.co/wp-content/uploads/2023/02/MEME.webp", testo: "essere o non essere, questo è il dilemma", nome: "Elona" },
       ],
     };
   },
