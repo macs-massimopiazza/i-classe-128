@@ -55,6 +55,7 @@ export default {
         },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "https://project-static-assets.s3.amazonaws.com/APISpreadsheets/APIMemes/HomerSimpsonFrontBack.jpeg", testo: "Api's", nome: "Simone MN" },
         { src: "./public/images/128.jpg", testo: "Sotto il pontos c'è la classe 128", nome: "Enxhi" },
         { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
         { src: "https://allevamentowhitenoblesse.it/wp-content/uploads/2018/07/FULL-WEB-300x300.jpg", testo: "\u2665", nome: "Ginevra" },
