@@ -1,13 +1,11 @@
 <template>
   <div id="app">
-    <div
-      style="
+    <div style="
         background: url('/garlic_dog.webp') no-repeat center;
         background-size: cover;
         min-height: 40vh;
         padding: 2rem 0;
-      "
-    >
+      ">
       <h1 style="color: #a8ffc9; font-size: 4rem">
         ✨🌟🫘 Vivaaaaa Classe 128 ✨🌟🫘
       </h1>
@@ -21,12 +19,7 @@
     </h3>
     <ul>
       <li v-for="(frase, index) in frasi" :key="index">
-        <img
-          style="max-height: 200px; width: initial"
-          v-if="frase.src"
-          :src="frase.src"
-          alt=""
-        />
+        <img style="max-height: 200px; width: initial" v-if="frase.src" :src="frase.src" alt="" />
         <span style="display: block">{{ frase.testo }}</span>
         <span style="font-style: italic"> -{{ frase.nome }}</span>
         <hr />
@@ -62,6 +55,7 @@ export default {
         },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
         { src: "https://allevamentowhitenoblesse.it/wp-content/uploads/2018/07/FULL-WEB-300x300.jpg", testo: "\u2665", nome: "Ginevra" },
         { src: "https://steamuserimages-a.akamaihd.net/ugc/827947822281755983/AFC667EED288018C60AB52D8CAC3E1F142F5BD85/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true", testo: "garlic dog", nome: "Francesco" },
         { src: "https://storage.laprovinciadicomo.it/media/photologue/2024/8/22/photos/cache/nico-paz-piace-a-tuttilo-vuole-il-milan-per-gennaio_3fc429b_6zgWFvb_original.webp", testo: "Non so cosa scrivere", nome: "Alessandro" },
