@@ -54,6 +54,11 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
+        {
+          src: "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Hasbulla.jpg",
+          testo: "frase divertente da leggere",
+          nome: "Flavio",
+        },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "", testo: "", nome: "" },
