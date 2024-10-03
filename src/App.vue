@@ -64,7 +64,6 @@ export default {
         { src: "https://steamuserimages-a.akamaihd.net/ugc/827947822281755983/AFC667EED288018C60AB52D8CAC3E1F142F5BD85/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true", testo: "garlic dog", nome: "Francesco" },
         { src: "https://storage.laprovinciadicomo.it/media/photologue/2024/8/22/photos/cache/nico-paz-piace-a-tuttilo-vuole-il-milan-per-gennaio_3fc429b_6zgWFvb_original.webp", testo: "Non so cosa scrivere", nome: "Alessandro" },
         { src: "", testo: "Buonasera", nome: "Michele" },
-        { src: "", testo: "", nome: "" },
         { src: "https://www.socialpilot.co/wp-content/uploads/2023/02/MEME.webp", testo: "essere o non essere, questo è il dilemma", nome: "Elona" },
         { src: "https://wips.plug.it/cips/libero.it/magazine/cms/2022/04/giorgio-mastrota-1.jpg", testo: "Cavalier custode dell'acciaio Inox ( Giorgio Mastroooo..) Guerriero nordico di pura lana Merinos", nome: "xX_-Giorgio_Matrota_Biggest_Fan89-_Xx" },
       ],
