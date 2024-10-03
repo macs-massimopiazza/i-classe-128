@@ -55,6 +55,7 @@ export default {
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "https://allevamentowhitenoblesse.it/wp-content/uploads/2018/07/FULL-WEB-300x300.jpg", testo: "\u2665", nome: "Ginevra" },
         { src: "", testo: "", nome: "" },
       ],
     };
