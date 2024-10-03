@@ -56,6 +56,7 @@ export default {
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXYn5iUcNSCXBwpDnJLLkO89Wr4A6t1nk1Q&s", testo: "Come rispondo se mi chiedono come sto", nome: "Samuele G." },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "https://blog.zegocloud.com/wp-content/uploads/2024/02/programming-meme-25.jpg", testo: "", nome: "Jacopo" },
         { src: "https://project-static-assets.s3.amazonaws.com/APISpreadsheets/APIMemes/HomerSimpsonFrontBack.jpeg", testo: "Api's", nome: "Simone MN" },
         { src: "./public/images/128.jpg", testo: "Sotto il pontos c'è la classe 128", nome: "Enxhi" },
         { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
