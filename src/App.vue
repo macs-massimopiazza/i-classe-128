@@ -55,6 +55,7 @@ export default {
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "", nome: "" },
+        { src: "https://wips.plug.it/cips/libero.it/magazine/cms/2022/04/giorgio-mastrota-1.jpg", testo: "Cavalier custode dell'acciaio Inox ( Giorgio Mastroooo..) Guerriero nordico di pura lana Merinos", nome: "xX_-Giorgio_Matrota_Biggest_Fan89-_Xx" },
       ],
     };
   },
