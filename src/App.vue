@@ -54,7 +54,11 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
-        { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        {
+          src: "https://img.pixers.pics/pho_wat(s3:700/FO/14/40/48/53/7/700_FO144048537_0e9365fddde61e0d27e76af934bb3787,700,464,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,414,jpg)/carte-da-parati-astronauta-gatto-nello-spazio-su-sfondo-del-globo-elementi-di-questa-immagine-forniti-dalla-nasa.jpg.jpg",
+          testo: "ok sono io a modificare",
+          nome: "tommaso",
+        },
         { src: "", testo: "", nome: "" },
       ],
     };
