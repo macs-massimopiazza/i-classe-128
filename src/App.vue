@@ -59,6 +59,9 @@ export default {
           testo: "frase divertente da leggere",
           nome: "Flavio",
         },
+        { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
+        { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "", testo: "", nome: "" },
       ],
     };
   },
