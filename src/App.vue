@@ -49,6 +49,7 @@ export default {
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
         { src: "https://media.tenor.com/0tOTXay-i9gAAAAe/carlo-conti-scossa.png", testo: "Va beeeene!", nome: "Ennio" },
+      ]
 
     };
   },
