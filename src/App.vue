@@ -54,7 +54,11 @@ export default {
           nome: "Stefano",
         },
         { src: null, testo: "Nananananana Batman 2", nome: "Simone" },
-        { src: "", testo: "", nome: "" },
+        {
+          src: "https://static.foxnews.com/foxnews.com/content/uploads/2022/08/Hasbulla.jpg",
+          testo: "frase divertente da leggere",
+          nome: "Flavio",
+        },
       ],
     };
   },
