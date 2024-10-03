@@ -62,6 +62,7 @@ export default {
         },
         { src: "https://gloriastore.it/18387-large_default/gnomo-natalizio-con-vestito-rosso-h68-cm.jpg", testo: "Il mitico gnomo rosso", nome: "Samuele CZ" },
         { src: "", testo: "ok sono io a modificare", nome: "tommaso" },
+        { src: "https://steamuserimages-a.akamaihd.net/ugc/827947822281755983/AFC667EED288018C60AB52D8CAC3E1F142F5BD85/?imw=1024&imh=768&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true", testo: "garlic dog", nome: "Francesco" },
         { src: "https://storage.laprovinciadicomo.it/media/photologue/2024/8/22/photos/cache/nico-paz-piace-a-tuttilo-vuole-il-milan-per-gennaio_3fc429b_6zgWFvb_original.webp", testo: "Non so cosa scrivere", nome: "Alessandro" },
         { src: "", testo: "Buonasera", nome: "Michele" },
         { src: "", testo: "", nome: "" },
